@@ -128,7 +128,7 @@ void loop() {
     }
     
     timeMin=timeMinNow;
-    timeSeg=contAmostra=0;
+     timeSeg=mediaUmidade=contAmostra=0;
     
     }else{
 //    Serial.println("No memso minuto ");  
